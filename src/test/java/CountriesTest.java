@@ -3,8 +3,6 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.Scenario;
 import cucumber.api.java.Before;
 import cucumber.api.junit.Cucumber;
-import org.junit.AfterClass;
-import org.junit.BeforeClass;
 import org.junit.runner.RunWith;
 
 import java.io.File;
