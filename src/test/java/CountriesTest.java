@@ -13,7 +13,7 @@ import java.io.File;
 //        tags = {"@GetAllCountries"},
         format = {"json:target/cucumber.json", "html:target/site/cucumber-pretty"},
         glue = {"stepdefs"},
-        features = {"src/test/java/features/GetAllCountries.feature",
+        features = {"src/test/java/features/GetAllCountries.feature"
 
         }
 //        ,
